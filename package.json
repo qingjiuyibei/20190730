@@ -1,0 +1,17 @@
+{
+  "name": "20190730",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lessc css/index.less css/index.min.css -x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1",
+    "less": "^3.10.3"
+  }
+}
